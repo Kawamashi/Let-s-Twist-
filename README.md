@@ -1,2 +1,2 @@
-# Let-s-Twist-
+# Lets-Twist
 Ergonomic split mechanical keyboard
