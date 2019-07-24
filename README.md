@@ -17,3 +17,4 @@ My project was heavily inspired by Mattia Dal Ben's [Redox keyboard](https://git
 
 So, here is the layout I get :
 
+![Layout](https://github.com/Kawamashi/Let-s-Twist-/blob/master/Layout.PNG)
