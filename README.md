@@ -17,6 +17,6 @@ My project was heavily inspired by Mattia Dal Ben's [Redox keyboard](https://git
 
 So, here is the layout I get :
 
-<img src="img/layout.png" alt="Layout" width="600"/>
+![Layout](img/layout.png)
 
 The PCB can manage 2 or 3 keys for each of the thumb clusters. The blue keys can be 1u or 1.25u.
