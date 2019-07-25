@@ -17,6 +17,6 @@ My project was heavily inspired by Mattia Dal Ben's [Redox keyboard](https://git
 
 So, here is the layout I get :
 
-![Layout](https://github.com/Kawamashi/LetsTwist_keyboard/blob/master/Layout.PNG)
+<img src="img/layout.png" alt="Layout" width="600"/>
 
 The PCB can manage 2 or 3 keys for each of the thumb clusters. The blue keys can be 1u or 1.25u.
