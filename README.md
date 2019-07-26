@@ -9,6 +9,7 @@ First of all, I want to keep some of the Ergodox features :
 - the split design, because it allows you to have a very comfortable position.
 - programmable with QMK, I don't think I need to explain why…
 - 1.5u wide keys on the outer columns, because it's aesthetically pleasing ! 
+- wired connectivity, because I don't like to rely on batteries, and because I like my custom cables !
 
 Then, like a lot of people, I find that the thumb clusters of the Ergodox are too far away from the alphas. I saw Mikel Duffy's great [modified Ergodox](https://medium.com/@mikelduffy/hand-wiring-a-modified-ergodox-1adbfc479468), and I want the two main thumb keys to be in the same position.
 
